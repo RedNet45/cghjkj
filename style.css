@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    text-align:center;
+}
+
+
+
+
+.abcd {
+    width:304px;
+    height:299px;
+    border-radius:66px;
+    padding-left:15px;
+}
+
+
+ footer table{
+    background-color:#7B7B7B;
+}
+
+
+
+footer img {
+    width:250px;
+    height:230;
+    border-radius:35px;
+}
+
